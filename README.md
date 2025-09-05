@@ -1,6 +1,6 @@
-# 🏦 SEBI Trading Platform
+# 🏦 SEBI Trading Education Platform
 
-A comprehensive financial trading platform featuring advanced Three.js visualizations, virtual trading simulator, and interactive learning modules.
+A comprehensive financial trading education platform featuring advanced Three.js visualizations, virtual trading simulator, and interactive learning modules.
 
 ## ✨ Features
 
@@ -77,8 +77,8 @@ A comprehensive financial trading platform featuring advanced Three.js visualiza
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sidhantiitian17/sebi-trading-platform.git
-   cd sebi-trading-platform
+   git clone https://github.com/sidhantiitian17/SEBI-trading-education-platform.git
+   cd SEBI-trading-education-platform
    ```
 
 2. **Install dependencies**
@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sidhant** - [@sidhantiitian17](https://github.com/sidhantiitian17)
 
-Project Link: [https://github.com/sidhantiitian17/sebi-trading-platform](https://github.com/sidhantiitian17/sebi-trading-platform)
+Project Link: [https://github.com/sidhantiitian17/SEBI-trading-education-platform](https://github.com/sidhantiitian17/SEBI-trading-education-platform)
 
 ---
 
