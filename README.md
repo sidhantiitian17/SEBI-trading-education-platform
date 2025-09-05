@@ -2,7 +2,7 @@
 
 A comprehensive financial trading education platform featuring advanced Three.js visualizations, virtual trading simulator, and interactive learning modules.
 
-![video alt](https://github.com/user-attachments/assets/0882782a-7380-462d-bdbb-457a5e750c93)
+![video ](https://github.com/user-attachments/assets/0882782a-7380-462d-bdbb-457a5e750c93)
 ## ✨ Features
 ![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/28d3ef0d5b6774cf7f22f725edd1a936b0407fc8/Screenshot%202025-09-05%20150735.png)
 ![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/28d3ef0d5b6774cf7f22f725edd1a936b0407fc8/Screenshot%202025-09-05%20150800.png)
