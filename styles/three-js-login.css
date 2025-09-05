@@ -1,0 +1,84 @@
+/* Custom styles for the Three.js login interface */
+
+/* Neon glow effect for inputs */
+.neon-input {
+  background: rgba(17, 24, 39, 0.9);
+  border: 2px solid rgba(34, 211, 238, 0.4);
+  box-shadow: 
+    0 0 5px rgba(34, 211, 238, 0.3),
+    inset 0 0 5px rgba(34, 211, 238, 0.1);
+  transition: all 0.3s ease;
+}
+
+.neon-input:focus {
+  border-color: rgb(34, 211, 238);
+  box-shadow: 
+    0 0 15px rgba(34, 211, 238, 0.6),
+    0 0 25px rgba(34, 211, 238, 0.4),
+    inset 0 0 8px rgba(34, 211, 238, 0.2);
+}
+
+/* Neon button effect */
+.neon-button {
+  background: linear-gradient(45deg, rgb(34, 211, 238), rgb(59, 130, 246));
+  border: none;
+  box-shadow: 
+    0 0 10px rgba(34, 211, 238, 0.5),
+    0 4px 15px rgba(34, 211, 238, 0.3),
+    inset 0 0 15px rgba(255, 255, 255, 0.1);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.neon-button:hover {
+  box-shadow: 
+    0 0 20px rgba(34, 211, 238, 0.8),
+    0 6px 20px rgba(34, 211, 238, 0.4),
+    inset 0 0 20px rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px) scale(1.02);
+}
+
+.neon-button:active {
+  transform: translateY(0) scale(0.98);
+}
+
+/* Form container glow */
+.form-container {
+  background: rgba(0, 0, 0, 0.95);
+  border: 2px solid rgb(34, 211, 238);
+  box-shadow: 
+    0 0 30px rgba(34, 211, 238, 0.4),
+    0 0 60px rgba(147, 51, 234, 0.2),
+    inset 0 0 30px rgba(34, 211, 238, 0.1);
+  backdrop-filter: blur(20px);
+}
+
+/* Tab styling */
+.active-tab {
+  background: linear-gradient(45deg, rgba(34, 211, 238, 0.3), rgba(59, 130, 246, 0.2));
+  border: 1px solid rgba(34, 211, 238, 0.6);
+  box-shadow: 
+    0 0 10px rgba(34, 211, 238, 0.3),
+    inset 0 0 10px rgba(34, 211, 238, 0.1);
+}
+
+/* Stock ticker styling */
+.stock-ticker {
+  text-shadow: 0 0 10px currentColor;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+/* Checkbox styling */
+.neon-checkbox {
+  accent-color: rgb(34, 211, 238);
+  filter: drop-shadow(0 0 3px rgba(34, 211, 238, 0.5));
+}
+
+.neon-checkbox:checked {
+  filter: drop-shadow(0 0 8px rgba(34, 211, 238, 0.8));
+}
