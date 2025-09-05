@@ -9,7 +9,7 @@ A comprehensive financial trading education platform featuring advanced Three.js
 - **Floating Particles System**: Dynamic background effects
 - **Neon-styled Forms**: Modern glassmorphism design
 - **Responsive 3D Graphics**: Optimized for all devices
-
+![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/42962824f7e0eda2894abd1072c84ee21d89a9e1/uiSEBIlogin.png)
 ### 📈 Virtual Trading Simulator
 - **Real-time Market Data**: Live stock prices and market indicators
 - **Portfolio Management**: Track investments and performance
