@@ -16,21 +16,21 @@ A comprehensive financial trading education platform featuring advanced Three.js
 - **Risk-free Learning**: Practice trading with virtual money
 - **Advanced Charts**: Interactive candlestick visualizations
 - **Order Management**: Buy/sell orders with market simulation
-
+![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/8dd7d924806ac240c32b9e3b93dd9c000ac51657/Screenshot%202025-09-05%20193653.png)
 ### 🎮 Gamification System
 - **Achievement System**: Unlock badges and rewards
 - **XP Points**: Earn experience through learning
 - **Leaderboards**: Compete with other traders
 - **Daily Challenges**: Regular trading tasks
 - **Progress Tracking**: Monitor learning journey
-
+![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/8dd7d924806ac240c32b9e3b93dd9c000ac51657/Screenshot%202025-09-05%20150639.png)
 ### 📚 Interactive Learning
 - **Educational Modules**: Comprehensive trading courses
 - **Quiz System**: Test knowledge with interactive quizzes
 - **Progress Analytics**: Track learning performance
 - **Video Tutorials**: Visual learning content
 - **Study Groups**: Collaborative learning
-
+![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/8dd7d924806ac240c32b9e3b93dd9c000ac51657/Screenshot%202025-09-05%20150340.png)
 ### 🚀 Advanced Features
 - **Algorithmic Trading**: Build and test trading strategies
 - **Market Analysis**: Technical indicators and charts
@@ -38,7 +38,8 @@ A comprehensive financial trading education platform featuring advanced Three.js
 - **Multi-language Support**: I18n implementation
 - **Dark Theme**: Modern UI/UX design
 - **Mobile Responsive**: Cross-platform compatibility
-
+![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/8dd7d924806ac240c32b9e3b93dd9c000ac51657/Screenshot%202025-09-05%20193755.png)
+![image alt](https://github.com/sidhantiitian17/SEBI-trading-education-platform/blob/8dd7d924806ac240c32b9e3b93dd9c000ac51657/Screenshot%202025-09-05%20193804.png)
 ## 🛠️ Technology Stack
 
 ### Frontend
